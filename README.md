@@ -1,16 +1,56 @@
-## Hi there 👋
+# 🖤 Vinícius Lisboa 
 
-<!--
-**IamXeoth/IamXeoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pesquisador em Inteligência Artificial | Especialista em IA Cognitiva**
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![ResearchGate](https://img.shields.io/badge/ResearchGate-000000?style=for-the-badge&logo=researchgate&logoColor=white)
+![Cognitive Science](https://img.shields.io/badge/Cognitive%20AI-000000?style=for-the-badge&logo=brain&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌑 Domínio Científico
+
+Explorando os limites da inteligência artificial através da compreensão dos processos cognitivos e computacionais.
+
+### 🔬 Áreas de Pesquisa
+
+- **Inteligência Artificial Cognitiva**
+- **Processamento de Linguagem Natural**
+- **Sistemas Cognitivos**
+- **Aprendizado de Máquina Inspirado no Cérebro**
+- **Interfaces Cérebro-Máquina**
+
+### 💻 Ferramentas Computacionais
+
+- **Frameworks de IA**: 
+  - TensorFlow
+  - PyTorch
+  - Scikit-learn
+  - Keras
+  - NLTK
+
+- **Bibliotecas Científicas**: 
+  - Pandas
+  - NumPy
+  - SciPy
+  - Neuromind
+
+### 🧠 Especialidades Técnicas
+
+- Redes Neurais Cognitivas
+- Modelos de Linguagem Avançados
+- Simulação de Processos Mentais
+- Arquiteturas Cognitivas Computacionais
+- Aprendizado Profundo Bioinspirado
+
+### 📚 Publicações & Pesquisas
+
+- Modelagem Computacional de Processos Cognitivos
+- Análise de Sistemas Inteligentes Adaptativos
+- Desenvolvimento de Arquiteturas Cognitivas Artificiais
+
+### 🌐 Presença Digital
+
+- 🌍 Site Pessoal: [www.viniciuslisboa.com.br](https://www.viniciuslisboa.com.br)
+- 📧 Contato: contato@viniciuslisboa.com.br
+- 🔬 ResearchGate: [Perfil de Pesquisa]()
+
+*Desvendando os mistérios da cognição através da computação*
