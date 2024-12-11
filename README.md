@@ -7,8 +7,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Cognitive Science](https://img.shields.io/badge/Cognitive%20AI-000000?style=for-the-badge&logo=brain&logoColor=white)
 
-![Vinícius Lisboa](https://avatars.githubusercontent.com/u/123456789?v=4)
-
 ## 🌑 Domínio Técnico e Científico
 
 Explorando os limites da inteligência artificial através da compreensão dos processos cognitivos e computacionais.
