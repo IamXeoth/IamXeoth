@@ -1,24 +1,19 @@
 # 🖤 Vinícius Lisboa 
 
-**Pesquisador em Inteligência Artificial | Especialista em IA Cognitiva**
+**Engenheiro de Machine Learning | Pesquisador em Inteligência Artificial | Especialista em IA Cognitiva**
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
-![ResearchGate](https://img.shields.io/badge/ResearchGate-000000?style=for-the-badge&logo=researchgate&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Cognitive Science](https://img.shields.io/badge/Cognitive%20AI-000000?style=for-the-badge&logo=brain&logoColor=white)
 
-## 🌑 Domínio Científico
+![Vinícius Lisboa](https://avatars.githubusercontent.com/u/123456789?v=4)
+
+## 🌑 Domínio Técnico e Científico
 
 Explorando os limites da inteligência artificial através da compreensão dos processos cognitivos e computacionais.
 
-### 🔬 Áreas de Pesquisa
-
-- **Inteligência Artificial Cognitiva**
-- **Processamento de Linguagem Natural**
-- **Sistemas Cognitivos**
-- **Aprendizado de Máquina Inspirado no Cérebro**
-- **Interfaces Cérebro-Máquina**
-
-### 💻 Ferramentas Computacionais
+### 🔬 Ferramental de Machine Learning
 
 - **Frameworks de IA**: 
   - TensorFlow
@@ -27,30 +22,32 @@ Explorando os limites da inteligência artificial através da compreensão dos p
   - Keras
   - NLTK
 
-- **Bibliotecas Científicas**: 
+- **Bibliotecas Científicas**:
   - Pandas
   - NumPy
   - SciPy
   - Neuromind
 
-### 🧠 Especialidades Técnicas
+### 💻 Expertise em Pesquisa
 
-- Redes Neurais Cognitivas
-- Modelos de Linguagem Avançados
-- Simulação de Processos Mentais
-- Arquiteturas Cognitivas Computacionais
 - Aprendizado Profundo Bioinspirado
-
-### 📚 Publicações & Pesquisas
-
-- Modelagem Computacional de Processos Cognitivos
+- Sistemas Cognitivos Artificiais
+- Modelagem Computacional de Processos Mentais
 - Análise de Sistemas Inteligentes Adaptativos
-- Desenvolvimento de Arquiteturas Cognitivas Artificiais
+- Desenvolvimento de Arquiteturas Cognitivas
+
+### 🧠 Áreas de Atuação
+
+- Inteligência Artificial Aplicada
+- Processamento de Linguagem Natural
+- Visão Computacional
+- Análise Preditiva
+- Redes Neurais Avançadas
 
 ### 🌐 Presença Digital
 
 - 🌍 Site Pessoal: [www.viniciuslisboa.com.br](https://www.viniciuslisboa.com.br)
-- 📧 Contato: contato@viniciuslisboa.com.br
-- 🔬 ResearchGate: [Perfil de Pesquisa]()
+- 📧 Contato: vinicius.araujo@professor.pb.gov.br
+- 🔬 Pesquisa: [ResearchGate](https://ayo.so/iamxeoth)
 
 *Desvendando os mistérios da cognição através da computação*
