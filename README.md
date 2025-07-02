@@ -1,51 +1,86 @@
 # 🖤 Vinícius Lisboa 
 
-**Engenheiro de Machine Learning | Pesquisador em Inteligência Artificial | Especialista em IA Cognitiva**
+**Engenheiro de Machine Learning & Cybersecurity | Pesquisador em Inteligência Artificial Cognitiva | Criador de Soluções Bioinspiradas**
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![Cognitive Science](https://img.shields.io/badge/Cognitive%20AI-000000?style=for-the-badge&logo=brain&logoColor=white)
+![Cognitive AI](https://img.shields.io/badge/Cognitive%20AI-000000?style=for-the-badge&logo=brain&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-000000?style=for-the-badge&logo=gnupg&logoColor=white)
+
+---
 
 ## 🌑 Domínio Técnico e Científico
 
-Explorando os limites da inteligência artificial através da compreensão dos processos cognitivos e computacionais.
+Exploro os limites entre inteligência artificial e segurança cibernética por meio de abordagens bioinspiradas e cognitivas. Meus projetos unem a complexidade do pensamento humano com a lógica computacional, criando sistemas autônomos e adaptativos capazes de aprender, se defender e se transformar.
 
-### 🔬 Ferramental de Machine Learning
+---
 
-- **Frameworks de IA**: 
-  - TensorFlow
-  - PyTorch
-  - Scikit-learn
-  - Keras
-  - NLTK
+## 🧠 Áreas de Atuação
 
-- **Bibliotecas Científicas**:
-  - Pandas
-  - NumPy
-  - SciPy
-  - Neuromind
+- Inteligência Artificial Cognitiva Aplicada  
+- Segurança Cibernética com Modelagem Bioinspirada  
+- Processamento de Linguagem Natural (NLP)  
+- Visão Computacional e Análise de Imagem  
+- Sistemas Autônomos e Análise Preditiva  
+- Redes Neurais Profundas & Autoencoders  
+- Análise de Ameaças & Detecção de Anomalias  
+- Simulações Cognitivas para Defesa Adaptativa  
 
-### 💻 Expertise em Pesquisa
+---
 
-- Aprendizado Profundo Bioinspirado
-- Sistemas Cognitivos Artificiais
-- Modelagem Computacional de Processos Mentais
-- Análise de Sistemas Inteligentes Adaptativos
-- Desenvolvimento de Arquiteturas Cognitivas
+## 🔐 Cybersecurity + IA Cognitiva
 
-### 🧠 Áreas de Atuação
+Atuo no desenvolvimento de soluções que unem **inteligência artificial avançada** com **mecanismos de defesa cibernética** inspirados no cérebro humano. Meus projetos incluem:
 
-- Inteligência Artificial Aplicada
-- Processamento de Linguagem Natural
-- Visão Computacional
-- Análise Preditiva
-- Redes Neurais Avançadas
+- 🔁 **Detecção Cognitiva de Ameaças em Tempo Real**
+- 🕷️ **Análise Comportamental de Malware com Redes Neurais**
+- 🧬 **Modelos Bioinspirados para Resposta Autônoma a Intrusões**
+- 🛡️ **Frameworks Defensivos Adaptáveis com IA**
+- 🧠 **IA para Análise de Engenharia Social e Padrões de Engenharia Cognitiva**
 
-### 🌐 Presença Digital
+---
 
-- 🌍 Site Pessoal: [www.viniciuslisboa.com.br](https://www.viniciuslisboa.com.br)
-- 📧 Contato: vinicius.araujo@professor.pb.gov.br
-- 🔬 Pesquisa: [ResearchGate](https://ayo.so/iamxeoth)
+## ⚙️ Ferramental Técnico
 
-*Desvendando os mistérios da cognição através da computação*
+### 💻 Frameworks de IA
+- TensorFlow · PyTorch · Keras · Scikit-learn · FastAI  
+- NLTK · SpaCy · Transformers · OpenCV
+
+### 📊 Científico & Numérico
+- Pandas · NumPy · SciPy · Matplotlib · Seaborn
+
+### 🧠 Simulação Cognitiva
+- Neuromind · CogTorch · MindSim · BrainPy
+
+### 🔐 Segurança Cibernética
+- Wireshark · Burp Suite · Nmap · Metasploit  
+- Suricata · Zeek · ELK Stack · OSINT Tools  
+- Python for Offensive Security & Forensics  
+- Machine Learning for Threat Detection  
+
+---
+
+## 👨‍🏫 Atuação Profissional
+
+- **Professor de Computação** na rede estadual do Governo da Paraíba  
+  Ministrando disciplinas técnicas em inteligência artificial, redes, sistemas operacionais e segurança, preparando alunos para o mercado real.  
+
+- **CEO da [Hummand](https://www.hummand.com.br)**  
+  Empresa de TI dedicada à humanização e modernização tecnológica no setor público, com foco em soluções de dados, IA e segurança digital.
+
+---
+
+## 📡 Presença Digital
+
+- 🌍 Site Pessoal: [www.viniciuslisboa.com.br](https://www.viniciuslisboa.com.br)  
+- 📧 E-mail: vinicius.araujo@professor.pb.gov.br  
+- 🔬 ResearchGate: [Acesse meu perfil](https://ayo.so/iamxeoth)  
+- 💼 LinkedIn: [Acesse meu perfil](https://www.linkedin.com/in/lisboa-vinicius/) 
+- 🔒 Projetos Cyber/IA: *Veja repositórios públicos abaixo*
+
+---
+
+> *"Desvendando os limites entre mente e máquina, defesa e adaptação — uma linha de código por vez."*
