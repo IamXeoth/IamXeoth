@@ -83,4 +83,6 @@ Atuo no desenvolvimento de soluções que unem **inteligência artificial avanç
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamxeoth&layout=compact&langs_count=10&theme=dark)](https://github.com/iamxeoth)
+
 > *"Entre mente e máquina, codifico defesa, adaptação e consciência algorítmica."*
