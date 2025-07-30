@@ -6,9 +6,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=bitdefender&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-000000?style=for-the-badge&logo=gnupg&logoColor=white)
-![Cognitive AI](https://img.shields.io/badge/Cognitive%20AI-000000?style=for-the-badge&logo=brain&logoColor=white)
+![Cognitive AI](https://img.shields.io/badge/Cognitive%20AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
