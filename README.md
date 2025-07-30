@@ -77,10 +77,10 @@ Atuo no desenvolvimento de soluções que unem **inteligência artificial avanç
 
 - 🌍 Site Pessoal: [www.viniciuslisboa.com.br](https://www.viniciuslisboa.com.br)  
 - 📧 E-mail: vinicius.araujo@professor.pb.gov.br  
-- 🔬 ResearchGate: [Acesse meu perfil](https://ayo.so/iamxeoth)  
+- 🔬 Ayo: [Acesse meu perfil](https://ayo.so/iamxeoth)  
 - 💼 LinkedIn: [Acesse meu perfil](https://www.linkedin.com/in/lisboa-vinicius/) 
 - 🔒 Projetos Cyber/IA: *Veja repositórios públicos abaixo*
 
 ---
 
-> *"Desvendando os limites entre mente e máquina, defesa e adaptação — uma linha de código por vez."*
+> *"Entre mente e máquina, codifico defesa, adaptação e consciência algorítmica."*
