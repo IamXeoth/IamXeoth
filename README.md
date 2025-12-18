@@ -60,7 +60,7 @@ Research and applied development focused on:
 ## Contact
 
 - [www.viniciuslisboa.com.br](https://www.viniciuslisboa.com.br)
-- [LinkedIn](https://www.linkedin.com/in/lisboa-vinicius/) 
+- https://www.linkedin.com/in/lisboa-vinicius
 - contato@viniciuslisboa.com.br
 
 ---
