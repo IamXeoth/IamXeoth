@@ -1,4 +1,4 @@
-# 🖤 Vinícius Lisboa 
+# Vinícius Lisboa 
 
 **Machine Learning & Cybersecurity Engineer | Researcher in Cognitive Artificial Intelligence | Architect of Bioinspired Systems**
 
@@ -12,75 +12,59 @@
 
 ---
 
-## 🌑 Domínio Técnico e Científico
+## Profile
 
-Exploro os limites entre inteligência artificial e segurança cibernética por meio de abordagens bioinspiradas e cognitivas. Meus projetos unem a complexidade do pensamento humano com a lógica computacional, criando sistemas autônomos e adaptativos capazes de aprender, se defender e se transformar.
-
----
-
-## 🧠 Áreas de Atuação
-
-- Inteligência Artificial Cognitiva Aplicada  
-- Segurança Cibernética com Modelagem Bioinspirada  
-- Processamento de Linguagem Natural (NLP)  
-- Visão Computacional e Análise de Imagem  
-- Sistemas Autônomos e Análise Preditiva  
-- Redes Neurais Profundas & Autoencoders  
-- Análise de Ameaças & Detecção de Anomalias  
-- Simulações Cognitivas para Defesa Adaptativa  
+I work at the intersection of **Artificial Intelligence, Cybersecurity and Cognitive Science**, designing systems capable of **perception, adaptation and autonomous defense**.  
+My focus is on cognition-driven and bio-inspired models applied to threat detection, behavioral analysis and adaptive security.
 
 ---
 
-## 🔐 Cybersecurity + IA Cognitiva
+## Core Expertise
 
-Atuo no desenvolvimento de soluções que unem **inteligência artificial avançada** com **mecanismos de defesa cibernética** inspirados no cérebro humano. Meus projetos incluem:
-
-- 🔁 **Detecção Cognitiva de Ameaças em Tempo Real**
-- 🕷️ **Análise Comportamental de Malware com Redes Neurais**
-- 🧬 **Modelos Bioinspirados para Resposta Autônoma a Intrusões**
-- 🛡️ **Frameworks Defensivos Adaptáveis com IA**
-- 🧠 **IA para Análise de Engenharia Social e Padrões de Engenharia Cognitiva**
+- Cognitive & Neuro-Inspired Artificial Intelligence  
+- Cybersecurity Architecture & Defensive Systems  
+- Machine Learning & Deep Learning  
+- Behavioral Modeling & Anomaly Detection  
+- NLP, Computer Vision & Predictive Systems  
 
 ---
 
-## ⚙️ Ferramental Técnico
+## Cognitive Cybersecurity
 
-### 💻 Frameworks de IA
-- TensorFlow · PyTorch · Keras · Scikit-learn · FastAI  
-- NLTK · SpaCy · Transformers · OpenCV
+Research and applied development focused on:
 
-### 📊 Científico & Numérico
-- Pandas · NumPy · SciPy · Matplotlib · Seaborn
-
-### 🧠 Simulação Cognitiva
-- Neuromind · CogTorch · MindSim · BrainPy
-
-### 🔐 Segurança Cibernética
-- Wireshark · Burp Suite · Nmap · Metasploit  
-- Suricata · Zeek · ELK Stack · OSINT Tools  
-- Python for Offensive Security & Forensics  
-- Machine Learning for Threat Detection  
+- Cognitive threat detection in real time  
+- Behavior-based malware and anomaly analysis  
+- Bio-inspired intrusion response models  
+- Engineering-social and psychological attack detection  
+- Adaptive defensive frameworks powered by AI  
 
 ---
 
-## 👨‍🏫 Atuação Profissional
+## Stack
 
-- **Professor de Computação** na rede estadual do Governo da Paraíba  
-  Ministrando disciplinas técnicas em inteligência artificial, redes, sistemas operacionais e segurança, preparando alunos para o mercado real.  
-
-- **CEO da [Hummand](https://www.hummand.com.br)**  
-  Empresa de TI dedicada à humanização e modernização tecnológica no setor público, com foco em soluções de dados, IA e segurança digital.
+**AI & Data:** PyTorch · TensorFlow · Scikit-learn · Transformers · OpenCV  
+**Cognitive Modeling:** BrainPy · CogTorch · Custom Models  
+**Cybersecurity:** Wireshark · Nmap · Metasploit · Zeek · Suricata · ELK  
 
 ---
 
-## 📡 Presença Digital
+## Roles
 
-- 🌍 Site Pessoal: [www.viniciuslisboa.com.br](https://www.viniciuslisboa.com.br)  
-- 📧 E-mail: vinicius.araujo@professor.pb.gov.br  
-- 🔬 Ayo: [Acesse meu perfil](https://ayo.so/iamxeoth)  
-- 💼 LinkedIn: [Acesse meu perfil](https://www.linkedin.com/in/lisboa-vinicius/) 
-- 🔒 Projetos Cyber/IA: *Veja repositórios públicos abaixo*
+- **Professor of Computing** — Government of Paraíba (Brazil)  
+- **Founder & CEO** — Hummand  
+  Human-centered, secure and intelligent systems for public and private sectors  
 
 ---
+
+## Contact
+
+- [www.viniciuslisboa.com.br](https://www.viniciuslisboa.com.br)
+- [LinkedIn](https://www.linkedin.com/in/lisboa-vinicius/) 
+- contato@viniciuslisboa.com.br
+
+---
+
+> *"Between mind and machine, I design systems that think, adapt and defend."*
 
 > *"Entre mente e máquina, codifico defesa, adaptação e consciência algorítmica."*
