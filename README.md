@@ -34,5 +34,4 @@ Essays and research notes: [viniciuslisboa.com.br](https://viniciuslisboa.com.br
 · [X](https://x.com/IamXeoth)
 
 *Teacher and computer science coordinator at a public technical high
-school in Paraíba, Brazil. I believe the interior of the Northeast can
-produce research and products that matter.*
+school in Paraíba, Brazil.*
