@@ -1,4 +1,4 @@
-# Vinícius Lisboa
+# Vinícius Lisboa - Machine Learning Engineer 
 
 **How do we know there's *someone* on the other side?**
 
@@ -33,5 +33,4 @@ Essays and research notes: [viniciuslisboa.com.br](https://viniciuslisboa.com.br
 · [LinkedIn](https://www.linkedin.com/in/lisboa-vinicius/)
 · [X](https://x.com/IamXeoth)
 
-*Teacher and computer science coordinator at a public technical high
-school in Paraíba, Brazil.*
+*Teacher and IT coordinator for the Government of Paraíba, Brazil.*
