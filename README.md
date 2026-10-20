@@ -18,8 +18,7 @@ conscious; not claiming they aren't. Working on how we'd tell.
 
 - **[Hummand](https://www.hummand.com.br)** — digital identity and proof
   of humanity as infrastructure for the public sector
-- **[The Alert](https://thealert.io)** — uptime monitoring and
-  observability platform
+- **[The Alert](https://thealert.io)** — Verifiable human authority
 - **[Nameplate](https://nameplate.com.br)** — live monitoring and
   forecasting of renewable energy curtailment in Northeast Brazil, built
   on open grid data (ONS) — a student project I mentor as a teacher
